@@ -10,3 +10,5 @@ for i in range(10):
 
 g = nx.Graph()
 g.add_node('Paolo')
+# feature 1
+[x**2 for (x, y) in zip(range(2), range(3))]
